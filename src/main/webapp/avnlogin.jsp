@@ -165,7 +165,7 @@ position: absolute;
 </div><br>
 <img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
+<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARSLANDER</h1></b>
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
@@ -174,7 +174,7 @@ position: absolute;
 </i>
 </b>
 <br><br>
-The Mars Help Desk, can assist with issues and concerns regarding:
+The Marslander Desk, can assist with issues and concerns regarding:
 <br><br>
 <i>
 <font color="orange"> Troubleshooting problems</font>
@@ -192,7 +192,7 @@ The Mars Help Desk, can assist with issues and concerns regarding:
 <ul style="margin-left:20px">
 <li>Call 123-456-7890</li>
 <li>
-<a href="mailto:compliant@devopsunion.com">Email</a>
+<a href="mailto:compliant@marslander.com">Email</a>
 </li><br>
  Wholesale Customer Care:
 <br>
@@ -214,7 +214,7 @@ The Mars Help Desk, can assist with issues and concerns regarding:
    </div>
    <p class="text-center">
    <span id="fullyear">2017</span>
-   &#169; DEVOPS UNION. All Rights Reserved.<br>
+   &#169; MARSLANDER CORP. All Rights Reserved.<br>
    | India | Singapore | Belgium | USA |
   </p>
  </body>
