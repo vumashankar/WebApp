@@ -72,7 +72,7 @@ public class ftat {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		driver.findElement(By.xpath("//font[text()='Create Repair Ticket']")).isDisplayed();
 		Select proddd = new Select(driver.findElement(By.name("product")));
-		proddd.selectByValue("BROADBAND");
+		proddd.selectByValue("INTERNET");
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		driver.findElement(By.name("problemdescription")).click();
 		driver.findElement(By.name("problemdescription")).clear();
